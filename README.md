@@ -1,5 +1,5 @@
 <h1 align="left">:wave: Hello! I'm 
-l Rrahman </h1>
+Abdul Rrahman </h1>
 <h3 align="left">I am a Full Stack Developer, doing Software Development using NodeJs and JavaScript </h3>
 <p align="left">
       <a href="https://github.com/rahman973">
