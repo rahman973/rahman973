@@ -66,7 +66,7 @@ Abdul Rrahman </h1>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48"/>
             </a>
             <br>MongoDB&nbsp;
-        </td>
+       </td>
         <td align="center" width="96">
             <a>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48"/>
@@ -79,6 +79,5 @@ Abdul Rrahman </h1>
             </a>
             <br>PostGreSQL&nbsp;
         </td>
-        
     </tr>
 </table>
