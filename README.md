@@ -39,6 +39,12 @@ Abdul Rrahman </h1>
             </a>
             <br>Java&nbsp;
         </td>
+             <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
+            </a>
+            <br>Python&nbsp;
+        </td>
     </tr>
 </table>
 <h1 align="left">Frameworks</h1>
@@ -79,11 +85,6 @@ Abdul Rrahman </h1>
             </a>
             <br>PostGreSQL&nbsp;
         </td>
-             <td align="center" width="96">
-            <a>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48"/>
-            </a>
-            <br>Python&nbsp;
-        </td>
+          
     </tr>
 </table>
